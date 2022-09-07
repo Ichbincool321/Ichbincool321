@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ichbincool321
-- 👀 I’m interested in drugz
+- 👀 I’m interested in getting rich
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on drugz
-- 📫 How to reach me: please don´t
+- 💞️ I’m looking to collaborate on taxfraud
+- 📫 How to reach me: darknet
 
 <!---
 Ichbincool321/Ichbincool321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
