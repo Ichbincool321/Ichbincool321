@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ichbincool321
 - 👀 I’m interested in getting rich
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on taxfraud
 - 📫 How to reach me: darknet
 
